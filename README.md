@@ -1,6 +1,20 @@
 # backend-developer-guide
 - 백엔드 개발자 가이드 입니다. frontend-developer-guide 레파지토리와 한 쌍입니다.
 
+- 이 강의는 아래 과정과 연결되어 있습니다.
+
+  - [부트캠프 참여 전 반드시 알아야 할 모든 것](https://github.com/weniv/BootcampEssentials)
+  - [프론트엔드 개발자 가이드](https://github.com/weniv/frontend-developer-guide)
+  - [백엔드 개발자 가이드](https://github.com/weniv/backend-developer-guide)
+
+- 위니브의 베이스캠프 50% 강의 쿠폰을 100매씩 제공합니다.
+  - [HTML/CSS](https://inf.run/G19cK): 16174-5b96a8c96dbe
+  - [JavaScript](https://inf.run/MJKLX): 16175-630569295160
+  - [Django](https://inf.run/sBYjY): 16177-8e5fb2f956ed
+  - [Python](https://inf.run/yfCTL): 16178-435551a7ce7b
+  - [개발자를 위한 네트워크](https://inf.run/21CQA): 16173-4870575ed392
+
+
 ## 0. 목차
 
 - 1. 배우는 순서
